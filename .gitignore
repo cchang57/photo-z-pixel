@@ -16,13 +16,3 @@
 *.zip
 *.tar.bz2
 
-# Sextractor files
-*.sex
-*.param
-*.conv
-
-*.csv
-logfile*
-*.list
-*.train
-*.cfg
