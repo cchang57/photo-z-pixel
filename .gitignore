@@ -1,0 +1,28 @@
+# Compiled files
+*.pyc
+
+# Fits files used as examples and Montage files
+*.fits*
+*.hdr
+*.tbl
+
+# Temporary files
+*.save
+*~
+
+# Compressed files
+*.tar
+*.tar.gz
+*.zip
+*.tar.bz2
+
+# Sextractor files
+*.sex
+*.param
+*.conv
+
+*.csv
+logfile*
+*.list
+*.train
+*.cfg
